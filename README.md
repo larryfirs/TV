@@ -1,3 +1,5 @@
+[简体中文](README.zh-CN.md) | 繁體中文
+
 # 影視TV
 
 適用於 Android TV 與手機的影音應用程式，整合媒體瀏覽與播放體驗，並支援外部配置與 [CatVod](https://github.com/CatVodTVOfficial/CatVodTVJarLoader) Spider 介面擴充。
